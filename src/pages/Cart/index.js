@@ -8,8 +8,6 @@ import { connect } from 'react-redux';
 
 import { Container, ProducTable, Total } from './styles';
 
-import tenis from '../../assets/images/tenis.jpg';
-
 function Cart({ cart }) {
   return (
     <Container>
